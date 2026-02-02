@@ -28,4 +28,4 @@ Design:
 ## Contact
 
 - Email: bereketberehanu17@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bereket-berehanu-teshale-1b34b5234/?trk=public_profile_samename-profile&originalSubdomain=et
+- LinkedIn: https://www.linkedin.com/in/bereket-berehanu-teshale-1b34b5234
