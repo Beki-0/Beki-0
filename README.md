@@ -14,7 +14,7 @@ Languages:
 - C, C++, Python, TypeScript, JavaScript
 
 Web & Backend:
-- React, Next.js, Tailwind CSS, Redux Toolkit, FastAPI, Flask
+- React, Next.js, Tailwind CSS, Redux Toolkit, FastAPI, Fastify, Flask
 
 Systems:
 - Linux (Gentoo), Git, Bash
