@@ -20,7 +20,7 @@ Systems:
 - Linux (Gentoo), Git, Bash
 
 Data:
-- NumPy, Pandas, GeoPandas, Rioxarray, Rasterio, Scikitlearn, Matplotlib, SQLite, PostgreSQL
+-  SQLite, PostgreSQL, MongoDB, NumPy, Pandas, GeoPandas, Rioxarray, Rasterio, Scikitlearn, Matplotlib
 
 Design:
 - Figma
